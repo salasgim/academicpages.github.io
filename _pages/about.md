@@ -11,8 +11,6 @@ Welcome! I am a Ph.D. Candidate in [Political Science at the University of South
 
 My dissertation examines how firms recognize and respond to political risk. By studying different sources of political uncertainty, I aim to understand how such risk affects firm behavior, through which channels it reaches them, and how firms adapt their strategies when the political environment shifts around them. Empirically, I combine establishment-level data on subsidiary placements, a large language model pipeline to analyze corporate textual data, and survey experiments.
 
-Prior to doctoral studies, I received an M.A. in International Economics and International Relations from Paul H. Nitze School of Advanced International Studies, Johns Hopkins University. I earned a B.Soc.Sci. in Government and International Relations from Hong Kong Baptist University, where I was awarded a national scholarship (top 0.05%) and graduated top of my cohort.
-
 **Interests**
 - Political Economy
 - State–Business Relations
