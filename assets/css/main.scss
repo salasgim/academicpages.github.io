@@ -58,20 +58,3 @@
   }
 }
 
-// Font: Palatino system stack with Google Fonts fallback
-$palatino: "Palatino Linotype", Palatino, "Book Antiqua", "IM Fell English", Georgia, serif;
-
-body,
-p, li, h1, h2, h3, h4, h5, h6,
-.page__content,
-.page__title,
-.page__lead,
-.archive__item-title,
-.archive__item-excerpt,
-.author__name,
-.author__bio,
-.author__urls li a span,
-.nav__list,
-.masthead__menu-item {
-  font-family: $palatino !important;
-}
