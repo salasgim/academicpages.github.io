@@ -57,11 +57,22 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 ------
 
-## Research
+Research
+======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Working Papers
+------
+
+[Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns](https://gonzalez-rostani.com/img/Papers/YouTube.pdf) (with Valentina 
+
+Social Ties and Diaspora Managers: Evidence from a Multi-Country Survey (with Junbeom Bahk, Benjamin A.T. Graham, and Sooyeon Kim).
+
+
+Work in Progress
+------
+  
+Automation, Risk, and Public Legitimacy (with Valentina Gonzalez-Rostani).
+
 
 ------
 
