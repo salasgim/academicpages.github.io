@@ -13,9 +13,9 @@ title                    : "Claudia Salas Gimenez"
 title_separator          : "-"
 name                     : &name "Claudia Salas Gimenez"
 description              : &description "PhD Candidate at University of Southern California"
-url                      : "https://salasgim.github.io/academicpages.github.io/"
+url                      : "https://salasgim.github.io"
 baseurl                  : ""
-repository               : "salasgim/salasgim.github.io/academicpages.github.io"
+repository               : "salasgim/salasgim.github.io"
 
 # Site Author
 author:
