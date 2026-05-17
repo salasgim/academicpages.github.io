@@ -57,7 +57,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 ------
 
-## Publications
+## Research
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
