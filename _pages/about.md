@@ -13,19 +13,11 @@ My dissertation examines how firms recognize and respond to political risk. By s
 
 Prior to doctoral studies, I received an M.A. in International Economics and International Relations from Paul H. Nitze School of Advanced International Studies, Johns Hopkins University. I earned a B.Soc.Sci. in Government and International Relations from Hong Kong Baptist University, where I was awarded a national scholarship (top 0.05%) and graduated top of my cohort.
 
-<div style="display: flex; gap: 4em; margin: 2em 0;">
-
-<div>
-
 **Interests**
 - Political Economy
 - State–Business Relations
 - International Business
 - Political Methodology
-
-</div>
-
-<div>
 
 **Education**
 - M.A. in Political Science and International Relations  
@@ -33,10 +25,6 @@ Prior to doctoral studies, I received an M.A. in International Economics and Int
 
 - B.A. in Economics and International Affairs  
 <span style="color: gray; font-size: 0.9em;">Wagner College</span>
-
-</div>
-
-</div>
 
 You can access my CV here. 
 
