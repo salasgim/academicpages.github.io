@@ -36,7 +36,7 @@ You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkL
 
 
 
-Research
+Research {#research}
 ======
 
 
@@ -55,5 +55,5 @@ Automation, Risk, and Public Legitimacy (with Valentina Gonzalez-Rostani).
 
 
 
-Resources
+Resources {#resources}
 ======
