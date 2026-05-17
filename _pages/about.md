@@ -13,7 +13,7 @@ My dissertation examines how firms recognize and respond to political risk. By s
 
 You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkLsiH2QjFW4YHLU/view?usp=drive_link). (Last updated: May 2026).
 
-<div style="display: flex; gap: 2em; margin: 2em 0;">
+<div style="display: flex; gap: 1em; margin: 1em 0;">
 <div markdown="1">
 **Interests**
 - State–Business Relations
