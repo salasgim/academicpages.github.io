@@ -80,3 +80,33 @@ $palatino: "Palatino Linotype", Palatino, "Book Antiqua", "IM Fell English", Geo
     opacity: 1 !important;
   }
 }
+
+.sidebar {
+  .author__bio {
+    font-size: 1.1em !important;
+  }
+
+  .author__urls li a span {
+    font-size: 1.1em !important;  // only the text labels, not the icons
+  }
+}
+
+// Dark/light mode toggle - restore original size
+.theme-toggle,
+.search__toggle,
+#theme-toggle {
+  font-size: 1rem !important;
+  
+  svg, i, .fas, .fab, .far {
+    font-size: 1rem !important;
+  }
+}
+
+// Protect all icons from font-size inheritance
+.fa, .fas, .fab, .far, .fal,
+.sidebar .author__urls a i,
+.masthead i, .greedy-nav i {
+  font-size: inherit !important;
+  width: auto !important;
+  height: auto !important;
+}
