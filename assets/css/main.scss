@@ -75,3 +75,13 @@
     max-width: 1400px;
   }
 }
+
+body {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", serif !important;
+}
+
+.page__content,
+.archive__item-excerpt,
+p, li, h1, h2, h3, h4 {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", serif !important;
+}
