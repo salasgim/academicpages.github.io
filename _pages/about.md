@@ -11,20 +11,25 @@ Welcome! I am a Ph.D. Candidate in Political Science and International Relations
 
 My dissertation examines how firms recognize and respond to political risk. By studying different sources of political uncertainty, I aim to understand how such risk affects firm behavior, through which channels it reaches them, and how firms adapt their strategies when the political environment shifts around them. Empirically, I combine establishment-level data on subsidiary placements, a large language model pipeline to analyze corporate textual data, and survey experiments.
 
-You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkLsiH2QjFW4YHLU/view?usp=drive_link) (Last updated: May 2026).
+You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkLsiH2QjFW4YHLU/view?usp=drive_link). (Last updated: May 2026).
 
+<div style="display: flex; gap: 4em; margin: 2em 0;">
+<div>
 **Interests**
 - State–Business Relations
 - Firms Nonmarket Strategies
 - Text-as-Data Methods & Machine Learning
+</div>
 
+<div>
 **Education**
 - M.A. in Political Science and International Relations  
 <span style="color: gray; font-size: 0.9em;">University of Southern California</span>
 
 - B.A. in Economics and International Affairs  
 <span style="color: gray; font-size: 0.9em;">Wagner College</span>
-
+</div>
+</div>
  
 
 
