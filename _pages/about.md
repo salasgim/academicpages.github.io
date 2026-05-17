@@ -14,15 +14,17 @@ My dissertation examines how firms recognize and respond to political risk. By s
 You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkLsiH2QjFW4YHLU/view?usp=drive_link). (Last updated: May 2026).
 
 <div style="display: flex; gap: 4em; margin: 2em 0;">
-<div markdown="1">
+<div markdown="1" style="flex: 1;">
 **Interests**
+{: style="margin-bottom: 0.3em;"}
 - State–Business Relations
 - Firms Nonmarket Strategies
 - Text-as-Data Methods & Machine Learning
 </div>
 
-<div markdown="1">
+<div markdown="1" style="flex: 1;">
 **Education**
+{: style="margin-bottom: 0.3em;"}
 - M.A. in Political Science and International Relations  
 <span style="color: gray; font-size: 0.9em;">University of Southern California</span>
 
