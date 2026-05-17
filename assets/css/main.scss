@@ -84,3 +84,15 @@ sidebar {
     font-size: 0.91em !important;
   }
 }
+
+.theme-toggle {
+  opacity: 1 !important;
+  visibility: visible !important;
+  color: var(--global-text-color) !important;
+  
+  svg, button, i {
+    color: var(--global-text-color) !important;
+    fill: var(--global-text-color) !important;
+    opacity: 1 !important;
+  }
+}
