@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -54,3 +54,27 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+------
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+------
+
+## Teaching
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+------
+
+## Talks
+
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
