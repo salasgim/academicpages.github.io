@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. Candidate in [Political Science at the University of Southern California](https://dornsife.usc.edu/poir/profile/claudia-salas-gimenez/), with an emphasis on International Political Economy and Political Methodology. I am also a Graduate Research Assistant at the [The Security and Political Economy Lab](https://www.uscspec.org/).
+Welcome! I am a Ph.D. Candidate in [Political Science at the University of Southern California](https://dornsife.usc.edu/poir/profile/claudia-salas-gimenez/), with an emphasis on International Political Economy and Political Methodology. I am also a Graduate Research Assistant at [The Security and Political Economy Lab](https://www.uscspec.org/).
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
