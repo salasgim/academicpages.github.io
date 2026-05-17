@@ -16,6 +16,7 @@ You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkL
 <div style="display: flex; gap: 1em; margin: 1em 0;">
 <div markdown="1">
 **Interests**
+{: style="margin-bottom: 0.05em;"}
 - State–Business Relations
 - Firms' Nonmarket Strategies
 - Text-as-Data Methods & Machine Learning
@@ -23,6 +24,7 @@ You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkL
 
 <div markdown="1">
 **Education**
+{: style="margin-bottom: 0.05em;"}
 - M.A. in Political Science and International Relations, 2026  
 <span style="color: gray; font-size: 0.9em;">University of Southern California</span>
 
