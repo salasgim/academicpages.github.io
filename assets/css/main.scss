@@ -1,26 +1,15 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,18 +18,17 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap');
 
 // Wider content + wider sidebar
 @include breakpoint($large) {
@@ -70,18 +58,9 @@
   }
 }
 
-@include breakpoint($x-large) {
-  #main {
-    max-width: 1400px;
-  }
-}
+// Font: Palatino system stack with Google Fonts fallback
+$palatino: "Palatino Linotype", Palatino, "Book Antiqua", "IM Fell English", Georgia, serif;
 
-body {
-  font-family: "Palatino Linotype", Palatino, "Book Antiqua", serif !important;
-}
-
-.page__content,
-.archive__item-excerpt,
-p, li, h1, h2, h3, h4 {
-  font-family: "Palatino Linotype", Palatino, "Book Antiqua", serif !important;
+* {
+  font-family: $palatino !important;
 }
