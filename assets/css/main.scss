@@ -80,3 +80,11 @@ $palatino: "Palatino Linotype", Palatino, "Book Antiqua", "IM Fell English", Geo
     font-size: 1.3em !important;
   }
 }
+
+.page__content {
+  font-size: 0.9em !important;
+
+  p, li, dl {
+    font-size: 0.95em !important;
+  }
+}
