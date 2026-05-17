@@ -40,8 +40,11 @@ Prior to doctoral studies, I received an M.A. in International Economics and Int
 
 You can access my CV here. 
 
+
+
 Research
 ======
+
 
 Working Papers
 ------
@@ -50,23 +53,8 @@ Working Papers
 
 Social Ties and Diaspora Managers: Evidence from a Multi-Country Survey (with Junbeom Bahk, Benjamin A.T. Graham, and Sooyeon Kim).
 
+
 Work in Progress
 ------
   
 Automation, Risk, and Public Legitimacy (with Valentina Gonzalez-Rostani).
-
-
-Teaching
-======
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-------
-
-## Talks
-
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
