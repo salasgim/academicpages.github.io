@@ -12,10 +12,9 @@ Welcome! I am a Ph.D. Candidate in [Political Science at the University of South
 My dissertation examines how firms recognize and respond to political risk. By studying different sources of political uncertainty, I aim to understand how such risk affects firm behavior, through which channels it reaches them, and how firms adapt their strategies when the political environment shifts around them. Empirically, I combine establishment-level data on subsidiary placements, a large language model pipeline to analyze corporate textual data, and survey experiments.
 
 **Interests**
-- Political Economy
 - State–Business Relations
-- International Business
-- Political Methodology
+- Firms Nonmarket Strategies
+- Text-as-Data Methods & Machine Learning
 
 **Education**
 - M.A. in Political Science and International Relations  
