@@ -32,7 +32,6 @@ You can access my CV [here](https://drive.google.com/file/d/1CEIndSAh0Cje0XaMSkL
 <span style="color: gray; font-size: 0.9em;">Wagner College</span>
 </div>
 </div>
- 
 
 
 
@@ -53,3 +52,8 @@ Work in Progress
 ------
   
 Automation, Risk, and Public Legitimacy (with Valentina Gonzalez-Rostani).
+
+
+
+Research
+======
