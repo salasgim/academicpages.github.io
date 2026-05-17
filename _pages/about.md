@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. Candidate in [Political Science at the University of Southern California](https://dornsife.usc.edu/poir/profile/claudia-salas-gimenez/), with an emphasis on International Political Economy and Political Methodology. I am also a Graduate Research Assistant at [The Security and Political Economy Lab](https://www.uscspec.org/).
+Welcome! I am a Ph.D. Candidate in Political Science and International Relations at the [University of Southern California](https://dornsife.usc.edu/poir/profile/claudia-salas-gimenez/), with an emphasis on International Political Economy and Political Methodology. I am also a Graduate Research Assistant at [The Security and Political Economy Lab](https://www.uscspec.org/).
 
 My dissertation examines how firms recognize and respond to political risk. By studying different sources of political uncertainty, I aim to understand how such risk affects firm behavior, through which channels it reaches them, and how firms adapt their strategies when the political environment shifts around them. Empirically, I combine establishment-level data on subsidiary placements, a large language model pipeline to analyze corporate textual data, and survey experiments.
+
+You can access my CV here.
 
 **Interests**
 - State–Business Relations
@@ -23,7 +25,7 @@ My dissertation examines how firms recognize and respond to political risk. By s
 - B.A. in Economics and International Affairs  
 <span style="color: gray; font-size: 0.9em;">Wagner College</span>
 
-You can access my CV here. 
+ 
 
 
 
